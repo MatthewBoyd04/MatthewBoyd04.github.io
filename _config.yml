@@ -9,11 +9,11 @@ baseurl:
 # Title of the Site
 title: Matthew Boyd | Portfolio
 # Description of the Site
-description: Matthew's Personal Projet, Blog and CV site. 
+description: My Personal Portfolio, Projects & Blog. 
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /assets/images/mjb-high-resolution-logo.png
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Site, Template, Theme, Portfolio, Matthew, Boyd, MatthewBoyd, MatthewBoyd04, MatthewBoydd04, 
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -45,7 +45,11 @@ author-name: Matthew Boyd
 # URL for the Image of the Author
 author-image: /assets/images/Site_BG.jpg 
 # 60 Words About the Author
-author-about: Hi, I'm Matt, currently in my 4th and final year at the University of Sheffield, Interning at amazon as a L4 SDE. 
+author-about-line1: Hi, I'm Matt, Currently I'm studying MEng Computer Systems Engineering at the University of Sheffield (with a 74% Average). I am also currently a SDE Summer Intern at Amazon 
+author-about-line2: I started programming when I was 10, after first being introduced into scratch, and now 11 years later, this is my website.
+author-about-line3: This serves as a place for me to demonstrate my various skills and projects to the world, as well as write Devlogs and blogposts! 
+author-about-line4: Feel free to checkout the projects tab to see what I've been up to, and stay tuned for more updates, this is only the beginning. 
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/MatthewBoyd04
 # SASS
